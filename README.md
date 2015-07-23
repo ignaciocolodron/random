@@ -1,0 +1,1 @@
+Este proyecto contiene un fichero javascript que genera un numero aleatorio entre 0 y 1 y nos dice si es mayor o si es menor que 0.5
